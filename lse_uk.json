@@ -1,29 +1,29 @@
- [{
-            id: 'test_domain',
-            groups: [
+ 	[{
+            "id": "test_domain",
+            "groups": [
               {
-                id: 'group_1',
-                kinds: {
-                  test_kind: {
-                    prefix: 'test_prefix_1'
+                "id": "group_1",
+                "kinds": {
+                  "test_kind": {
+                    "prefix": "test_prefix_1"
                   }
                 }
               },
               {
-                id: 'group_2',
-                kinds: {
-                  test_kind: {
-                    prefix: 'test_prefix_2'
+                "id": "group_2",
+                "kinds": {
+                  "test_kind": {
+                    "prefix": "test_prefix_2"
                   }
                 }
               },
               {
-                id: 'group_3',
-                kinds: {
-                  test_kind: {
-                    prefix: 'test_prefix_1'
+                "id": "group_3",
+                "kinds": {
+                  "test_kind": {
+                    "prefix": "test_prefix_1"
                   }
                 }
               }
             ]
-          }]
+         }]
