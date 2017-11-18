@@ -1,0 +1,33 @@
+[
+ 	{
+        "id": "tv",
+        "groups": [
+	    {
+			"id": "dxy_idc2",
+			"kinds": {
+				"rt": {
+					"prefix": "TVC"
+				}
+	    	}
+		},
+	    {
+			"id": "dj_indices",
+			"kinds": {
+				"delay": {
+					"prefix": "DJ"
+	            }
+	        }
+        },
+	              
+	    {
+			"id": "us_ny_indices",
+			"kinds": {
+			   "rt": {
+			      "prefix": "TVC"
+			      
+		        }
+		    }
+		}
+        ]
+    }
+]
